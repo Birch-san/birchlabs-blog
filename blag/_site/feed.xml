@@ -4,10 +4,10 @@
     <title>Alex&#39;s thinking place</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://birchlabs.co.uk/blog/</link>
-    <atom:link href="http://birchlabs.co.uk/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Apr 2016 18:45:14 +0100</pubDate>
-    <lastBuildDate>Sun, 17 Apr 2016 18:45:14 +0100</lastBuildDate>
+    <link>http://birchlabs.co.uk/blag/</link>
+    <atom:link href="http://birchlabs.co.uk/blag/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Apr 2016 18:51:36 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Apr 2016 18:51:36 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 16 Apr 2016 21:16:25 +0100</pubDate>
-        <link>http://birchlabs.co.uk/blog/jekyll/update/2016/04/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://birchlabs.co.uk/blog/jekyll/update/2016/04/16/welcome-to-jekyll.html</guid>
+        <link>http://birchlabs.co.uk/blag/jekyll/update/2016/04/16/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://birchlabs.co.uk/blag/jekyll/update/2016/04/16/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
