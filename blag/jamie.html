@@ -4,20 +4,12 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  {% include filter.html filter="jamie" %}
 
-  <ul class="post-list">
-    {% for post in site.tags.jamie %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <h1 class="page-heading">Posts by Jamie</h1>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  {% include post-list.html list="jamie" %}
 
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+  {% include rss.html %}
 
 </div>

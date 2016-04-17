@@ -1,0 +1,8 @@
+<nav class="filter-nav">
+    <h1 class="filter-heading">Filter by:</h1>
+    <ul class="filter-list">
+      <li class="{% if include.filter == 'all' %}filter-active{% endif %}"><a href="index.html">All Posts</a></li>
+      <li class="{% if include.filter == 'alex' %}filter-active{% endif %}"><a href="alex.html">Posts by Alex</a></li>
+      <li class="{% if include.filter == 'jamie' %}filter-active{% endif %}"><a href="jamie.html">Posts by Jamie</a></li>
+    </ul>
+</nav>
