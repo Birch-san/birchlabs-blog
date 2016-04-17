@@ -28,5 +28,5 @@ Configuration [documented here](https://jekyllrb.com/docs/configuration/).
 
 ```bash
 jekyll serve --skip-initial-build --incremental
-# Now browse to http://localhost:4000/blog/
+# Now browse to http://localhost:4000/blag/
 ```
